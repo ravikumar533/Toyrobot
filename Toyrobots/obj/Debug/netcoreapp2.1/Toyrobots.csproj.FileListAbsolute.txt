@@ -1,0 +1,11 @@
+/Users/kammarir/Projects/Toyrobots/Toyrobots/bin/Debug/netcoreapp2.1/Toyrobots.deps.json
+/Users/kammarir/Projects/Toyrobots/Toyrobots/bin/Debug/netcoreapp2.1/Toyrobots.runtimeconfig.json
+/Users/kammarir/Projects/Toyrobots/Toyrobots/bin/Debug/netcoreapp2.1/Toyrobots.runtimeconfig.dev.json
+/Users/kammarir/Projects/Toyrobots/Toyrobots/bin/Debug/netcoreapp2.1/Toyrobots.dll
+/Users/kammarir/Projects/Toyrobots/Toyrobots/bin/Debug/netcoreapp2.1/Toyrobots.pdb
+/Users/kammarir/Projects/Toyrobots/Toyrobots/obj/Debug/netcoreapp2.1/Toyrobots.csprojAssemblyReference.cache
+/Users/kammarir/Projects/Toyrobots/Toyrobots/obj/Debug/netcoreapp2.1/Toyrobots.csproj.CoreCompileInputs.cache
+/Users/kammarir/Projects/Toyrobots/Toyrobots/obj/Debug/netcoreapp2.1/Toyrobots.AssemblyInfoInputs.cache
+/Users/kammarir/Projects/Toyrobots/Toyrobots/obj/Debug/netcoreapp2.1/Toyrobots.AssemblyInfo.cs
+/Users/kammarir/Projects/Toyrobots/Toyrobots/obj/Debug/netcoreapp2.1/Toyrobots.dll
+/Users/kammarir/Projects/Toyrobots/Toyrobots/obj/Debug/netcoreapp2.1/Toyrobots.pdb
